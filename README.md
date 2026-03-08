@@ -14,13 +14,13 @@
 <p align="left"><a href="https://twitter.com/https://x.com/roksa_dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/roksolana-kryvulia-b48026243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/https://github.com/roxaaaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Developer & Tech Enthusiast. 💻
-I use this space to document my coding journey and share projects like GitHub Wrapped, Final year project etc., which focus on  API Integration and machine learning. Currently deep-diving into and building tools that make life easier. I believe in the power of open-source and continuous learning. When I’m not pushing code, I’m likely exploring DSA and practising Leetcode. Let's connect and create!</h3>**
+I use this space to document my coding journey and share projects like GitHub Wrapped, Final year project etc., which focus on  API Integration and machine learning. Currently deep-diving into and building tools that make life easier. I believe in the power of open-source and continuous learning. When I’m not pushing code, I’m likely out for a run. Let's connect and create!</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing like a spotify wrapped but for the git hub**
-- 🌱 I'm currently learning: **📚 Doing my dissertation in machine learning domain**
-- 💬 Ask me about: **💡 DSA, Python, React, Node.js and RESTful APIs**
+- 💼 I'm currently working on: **💻 my dissertation - online tutor for agriculture science leaving cert students**
+- 🌱 I'm currently learning: **📚 training BART model**
+- 💬 Ask me about: **💡 DSA, Python, NLP & LLM**
 - ⚡ Fun fact: **I did karate for 2-3 months 🥋 and I was the only girl in the group**
 
  **<h3 align="center">Skills</h3>**
